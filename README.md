@@ -44,6 +44,8 @@ After the user chooses the menu, he will be transferred to the menu page that co
 
 In the event that the user has an account on our site, this will enable him to deal with orders in an easy and simple way, so that he can obtain discount coupons after a certain number of orders, save payment information safely for later use, specify previously saved addresses, and also can save the menu to His favorites, it will also enable him to view his purchase history and all orders.
 
+### Flowchart :bar_chart:
+![Flowchart (1)](https://user-images.githubusercontent.com/74710916/169670406-6b47ce6c-e6ad-4274-9587-bf93bdac33fc.png)
 
 ### Pages :bookmark_tabs:
 - Landing Page
